@@ -1,0 +1,16 @@
+Instance created with IP: 18.207.112.249
+Instance destroyed with IP: 18.207.112.249
+Instance created with IP: 54.90.26.190
+Instance destroyed with IP: 54.90.26.190
+Instance created with IP: 35.174.204.112
+Instance destroyed with IP: 100.26.165.99
+Instance created with IP: 54.87.204.73
+Instance destroyed with IP: 54.87.204.73
+Instance created with IP: 35.172.180.123
+Instance destroyed with IP: 35.172.180.123
+Instance created with IP: 3.92.177.235
+Instance created with IP: 3.86.100.38
+Instance created with IP: 54.227.115.236
+Instance destroyed with IP: 54.227.115.236
+Instance destroyed with IP: 3.86.100.38
+Instance destroyed with IP: 3.92.177.235
