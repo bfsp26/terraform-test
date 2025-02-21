@@ -75,7 +75,7 @@ resource "aws_security_group" "sg_public_instance" {
 
 module "s3_module" {
   source      = "./modules/s3"
-  bucket_name = "unique_s3_name_12345"
+  bucket_name = "unique-s3-name-12345"
 }
 
 output "s3_output" {

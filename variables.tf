@@ -1,19 +1,8 @@
-# cmd: export TF_VAR_virginia_cidr="10.10.0.0/16"
 variable "virginia_cidr" {
   description = "Virginia CIDR"
   type        = string
   sensitive   = false
 }
-
-# variable "public_subnet" {
-#   description = "CIDR public subnet"
-#   type        = string
-# }
-
-# variable "private_subnet" {
-#   description = "CIDR private subnet"
-#   type        = string
-# }
 
 variable "subnets" {
   description = "Subnets"
@@ -57,9 +46,9 @@ variable "ingress_port_list" {
 }
 
 variable "access_key" {
-  
+  type = string
 }
 
 variable "secret_key" {
-  
+  type = string
 }

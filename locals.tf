@@ -7,7 +7,3 @@ resource "random_string" "s3_suffix" {
   special = false
   upper   = false
 }
-
-locals {
-  s3-suffix = "${var.tags.env}-${random_string.s3_suffix.id}"
-}

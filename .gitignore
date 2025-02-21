@@ -1,1 +1,4 @@
 custom_key.pem
+.terraform.lock.hcl
+.terraform/
+.tflint.hcl
